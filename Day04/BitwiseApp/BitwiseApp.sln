@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BitwiseApp", "BitwiseApp.csproj", "{3C94AEA4-B431-45F0-9216-47A3BDE2EEAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C94AEA4-B431-45F0-9216-47A3BDE2EEAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C94AEA4-B431-45F0-9216-47A3BDE2EEAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C94AEA4-B431-45F0-9216-47A3BDE2EEAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C94AEA4-B431-45F0-9216-47A3BDE2EEAA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {169BFF1F-60E8-4662-915E-AFA809A9EE7C}
+	EndGlobalSection
+EndGlobal

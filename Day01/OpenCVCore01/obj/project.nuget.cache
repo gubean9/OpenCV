@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "m8W+xj0VVg/YpKK+u3fL5PdEL8jWJjqYIT7up0cwX8Fh5GlkKChR745JWP/9C4L/kLTFm7p5cYPA450EAJ7Ivw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\source\\repos\\Day038\\OpenCVCore01\\OpenCVCore01.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\opencvsharp4\\4.8.0.20230708\\opencvsharp4.4.8.0.20230708.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\opencvsharp4.runtime.win\\4.8.0.20230708\\opencvsharp4.runtime.win.4.8.0.20230708.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\opencvsharp4.windows\\4.8.0.20230708\\opencvsharp4.windows.4.8.0.20230708.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
